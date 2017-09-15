@@ -2,12 +2,6 @@
 
 A simple docker image with NPM and NodeJS installed.
 
-## Usage
-
-```
-> release <tag> <url>
-```
-
 ## Build & Release Status
 
 ### Build
