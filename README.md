@@ -1,6 +1,6 @@
 # NPM & NodeJS Container
 
-A simple docker image with NPM and NodeJS installed.
+A simple docker image with NPM (v6.0.1) and NodeJS (v8.9.3) installed.
 
 ## Build & Release Status
 
